@@ -1,0 +1,90 @@
+WCCILevent   (0), 2023.04.13 12:52:59.262, SYS,  INFO,        1, Manager Start, PROJ, LAB3, V 3.16 - 3.16   platform Windows AMD64 linked at Aug 30 2018 07:48:40 (f74445cfeb7)
+WCCILevent   (0), 2023.04.13 12:52:59.278, SYS,  INFO,      108, License information, Host information
+Hostname:   REXROTH-UKGJIFR
+HW-code:    51568640171
+HW-version: 31600002
+
+WCCILevent   (0), 2023.04.13 12:52:59.284, SYS,  SEVERE,    105, Invalid license, REXROTH-UKGJIFR: No license found
+WCCILevent   (0), 2023.04.13 12:52:59.287, SYS,  INFO,      108, License information, Using license file C:\Siemens\Automation\WinCC_OA\3.16\shield
+
+WCCILevent   (0), 2023.04.13 12:52:59.368, SYS,  INFO,        3, Trying to connect to (SYS: 0 Data -num 0 CONN: 1) @ localhost:4897
+WCCILevent   (0), 2023.04.13 12:52:59.372, SYS,  INFO,        4, Connected to (SYS: 0 Data -num 0 CONN: 1) @ REXROTH-UKGJIFR (::1)
+WCCILevent   (0), 2023.04.13 12:52:59.379, PARAM,SEVERE,     71, DP does not exist, _Connections.Event.ManNums:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.381, PARAM,SEVERE,     71, DP does not exist, _Connections.Event.StartTimes:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.382, PARAM,SEVERE,     71, DP does not exist, _Connections.Event.HostNames:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.384, PARAM,SEVERE,     71, DP does not exist, _Connections.Driver.ManNums:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.386, PARAM,SEVERE,     71, DP does not exist, _Connections.Driver.StartTimes:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.387, PARAM,SEVERE,     71, DP does not exist, _Connections.Driver.HostNames:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.389, PARAM,SEVERE,     71, DP does not exist, _Connections.Data.ManNums:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.391, PARAM,SEVERE,     71, DP does not exist, _Connections.Data.StartTimes:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.393, PARAM,SEVERE,     71, DP does not exist, _Connections.Data.HostNames:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.394, PARAM,SEVERE,     71, DP does not exist, _Connections.Ui.ManNums:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.396, PARAM,SEVERE,     71, DP does not exist, _Connections.Ui.StartTimes:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.398, PARAM,SEVERE,     71, DP does not exist, _Connections.Ui.HostNames:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.400, PARAM,SEVERE,     71, DP does not exist, _Connections.Ctrl.ManNums:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.401, PARAM,SEVERE,     71, DP does not exist, _Connections.Ctrl.StartTimes:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.403, PARAM,SEVERE,     71, DP does not exist, _Connections.Ctrl.HostNames:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.405, PARAM,SEVERE,     71, DP does not exist, _Connections.Ascii.ManNums:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.407, PARAM,SEVERE,     71, DP does not exist, _Connections.Ascii.StartTimes:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.408, PARAM,SEVERE,     71, DP does not exist, _Connections.Ascii.HostNames:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.410, PARAM,SEVERE,     71, DP does not exist, _Connections.Api.ManNums:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.411, PARAM,SEVERE,     71, DP does not exist, _Connections.Api.StartTimes:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.413, PARAM,SEVERE,     71, DP does not exist, _Connections.Api.HostNames:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.415, PARAM,SEVERE,     71, DP does not exist, _Connections.Device.ManNums:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.416, PARAM,SEVERE,     71, DP does not exist, _Connections.Device.StartTimes:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.418, PARAM,SEVERE,     71, DP does not exist, _Connections.Device.HostNames:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.420, PARAM,SEVERE,     71, DP does not exist, _Connections.Redu.ManNums:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.423, PARAM,SEVERE,     71, DP does not exist, _Connections.Redu.StartTimes:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.424, PARAM,SEVERE,     71, DP does not exist, _Connections.Redu.HostNames:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.426, PARAM,SEVERE,     71, DP does not exist, _Connections.Report.ManNums:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.427, PARAM,SEVERE,     71, DP does not exist, _Connections.Report.StartTimes:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.429, PARAM,SEVERE,     71, DP does not exist, _Connections.Report.HostNames:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.430, PARAM,SEVERE,     71, DP does not exist, _Connections.Dde.ManNums:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.432, PARAM,SEVERE,     71, DP does not exist, _Connections.Dde.StartTimes:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.433, PARAM,SEVERE,     71, DP does not exist, _Connections.Dde.HostNames:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.434, PARAM,SEVERE,     71, DP does not exist, _Connections.Dist.ManNums:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.436, PARAM,SEVERE,     71, DP does not exist, _Connections.Dist.StartTimes:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.437, PARAM,SEVERE,     71, DP does not exist, _Connections.Dist.HostNames:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.439, SYS,  SEVERE,    105, Invalid license, REXROTH-UKGJIFR: No license found
+WCCILevent   (0), 2023.04.13 12:52:59.441, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCILevent   (0), 2023.04.13 12:52:59.443, SYS,  INFO,      169, Initialize 0 dp-functions
+WCCILevent   (0), 2023.04.13 12:52:59.444, SYS,  INFO,      168, Initialize 0 alerts
+WCCILevent   (0), 2023.04.13 12:52:59.445, PARAM,WARNING,     7, Datapoint does not exist, EvFixedLicenses, EvFixedLicenses, _Event.License.FixedShield
+WCCILevent   (0), 2023.04.13 12:52:59.452, PARAM,WARNING,     7, Datapoint does not exist, UserTable, UserTable, _Users.UserId
+WCCILevent   (0), 2023.04.13 12:52:59.454, PARAM,WARNING,     7, Datapoint does not exist, ManagerTable, ManagerTable, _Managers.Auth.ManType
+WCCILevent   (0), 2023.04.13 12:52:59.456, PARAM,WARNING,     7, Datapoint does not exist, EventManager, doDpConnect, _System.Auth.DpType:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.457, PARAM,WARNING,     7, Datapoint does not exist, EventManager, doDpConnect, _System.Auth.Dp:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.458, PARAM,WARNING,     7, Datapoint does not exist, EventManager, doDpConnect, _System.Auth.DpAuth:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.460, PARAM,WARNING,     7, Datapoint does not exist, EventManager, doDpConnect, _System.Auth.DpAlias:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.461, PARAM,WARNING,     7, Datapoint does not exist, EventManager, dpDpConnect, _Event.ReadLicense
+WCCILevent   (0), 2023.04.13 12:52:59.462, PARAM,WARNING,     8, Element does not exist, EventManager, doDpConnect, _Managers.Exit
+WCCILevent   (0), 2023.04.13 12:52:59.464, PARAM,WARNING,     8, Element does not exist, EventManager, doDpConnect, _Managers.Refresh
+WCCILevent   (0), 2023.04.13 12:52:59.465, PARAM,WARNING,     7, Datapoint does not exist, EventManager, evMain, _Event.License.ExpirationCnt
+WCCILevent   (0), 2023.04.13 12:52:59.466, PARAM,WARNING,     7, Datapoint does not exist, EventManager, evMain, _Event.License.RemainingTime
+WCCILevent   (0), 2023.04.13 12:52:59.468, PARAM,WARNING,     7, Datapoint does not exist, EventManager, evMain, _Event.License.alm.isRTILInvalid:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.468, PARAM,WARNING,     7, Datapoint does not exist, EventManager, evMain, _Event.License.alm.isPVSSInvalid:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.469, PARAM,WARNING,     7, Datapoint does not exist, EventManager, evMain, _Event.License.alm.shield:_original.._value
+WCCILevent   (0), 2023.04.13 12:52:59.471, SYS,  SEVERE,    105, Invalid license, Eventmanager will shutdown after the demo period of 1800 seconds
+WCCILevent   (0), 2023.04.13 12:52:59.584, SYS,  WARNING,   105, Invalid license, REXROTH-UKGJIFR: No license found, Running as demo version, driver
+WCCILevent   (0), 2023.04.13 12:52:59.587, SYS,  INFO,        4, Connected to (SYS: 1 Driver -num 1 CONN: 1) @ REXROTH-UKGJIFR (::1)
+WCCILevent   (0), 2023.04.13 12:52:59.594, PARAM,WARNING,     7, Datapoint does not exist, DP: :_original.._value, MAN: (SYS: 1 Driver -num 1 CONN: 1)
+WCCILevent   (0), 2023.04.13 12:52:59.596, PARAM,WARNING,     7, Datapoint does not exist, DP: :_original.._value, MAN: (SYS: 1 Driver -num 1 CONN: 1)
+WCCILevent   (0), 2023.04.13 12:52:59.598, PARAM,WARNING,     7, Datapoint does not exist, DP: :_original.._value, MAN: (SYS: 1 Driver -num 1 CONN: 1)
+WCCILevent   (0), 2023.04.13 12:52:59.599, PARAM,WARNING,     7, Datapoint does not exist, DP: :_original.._value, MAN: (SYS: 1 Driver -num 1 CONN: 1)
+WCCILevent   (0), 2023.04.13 12:52:59.716, SYS,  WARNING,   105, Invalid license, REXROTH-UKGJIFR: No license found, Running as demo version, ascii
+WCCILevent   (0), 2023.04.13 12:52:59.718, SYS,  INFO,        4, Connected to (SYS: 1 Ascii -num 1 CONN: 1) @ REXROTH-UKGJIFR (::1)
+WCCILevent   (0), 2023.04.13 12:53:00.100, SYS,  WARNING,    39, Connection lost, MAN: (SYS: 1 Ascii -num 1 CONN: 1), Connection reset by peer (10054)
+WCCILevent   (0), 2023.04.13 12:53:00.360, SYS,  WARNING,   105, Invalid license, REXROTH-UKGJIFR: No license found, Running as demo version, ascii
+WCCILevent   (0), 2023.04.13 12:53:00.362, SYS,  INFO,        4, Connected to (SYS: 1 Ascii -num 1 CONN: 1) @ REXROTH-UKGJIFR (::1)
+WCCILevent   (0), 2023.04.13 12:53:00.374, SYS,  INFO,        1/event, <Error description text missing in event.cat message catalog>, MAN: (SYS: 1 Ascii -num 1 CONN: 1), 3, 227
+WCCILevent   (0), 2023.04.13 12:53:00.703, SYS,  WARNING,    39, Connection lost, MAN: (SYS: 1 Ascii -num 1 CONN: 1), Connection reset by peer (10054)
+WCCILevent   (0), 2023.04.13 12:53:00.922, SYS,  WARNING,   105, Invalid license, REXROTH-UKGJIFR: No license found, Running as demo version, ascii
+WCCILevent   (0), 2023.04.13 12:53:00.925, SYS,  INFO,        4, Connected to (SYS: 1 Ascii -num 1 CONN: 1) @ REXROTH-UKGJIFR (::1)
+WCCILevent   (0), 2023.04.13 12:53:00.929, SYS,  INFO,        1/event, <Error description text missing in event.cat message catalog>, MAN: (SYS: 1 Ascii -num 1 CONN: 1), 2, 468
+WCCILevent   (0), 2023.04.13 12:53:04.974, SYS,  WARNING,    39, Connection lost, MAN: (SYS: 1 Ascii -num 1 CONN: 1), Connection reset by peer (10054)
+WCCILevent   (0), 2023.04.13 12:53:07.012, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Driver -num 1 CONN: 1), Connection closed
+WCCILevent   (0), 2023.04.13 12:53:07.027, SYS,  INFO,        2, Manager Stop, received signal 15, exiting
+WCCILevent   (0), 2023.04.13 12:53:07.115, SYS,  INFO,        2, Manager Stop, start cleanup
+WCCILevent   (0), 2023.04.13 12:53:07.116, SYS,  INFO,      181, Closing connection to (SYS: 1 Data -num 0 CONN: 1)
+WCCILevent   (0), 2023.04.13 12:53:09.120, SYS,  INFO,       39, Connection lost, MAN: (SYS: 1 Data -num 0 CONN: 1), Connection closed
+WCCILevent   (0), 2023.04.13 12:53:09.147, SYS,  INFO,        2, Manager Stop

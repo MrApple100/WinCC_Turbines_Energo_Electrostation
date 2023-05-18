@@ -1,0 +1,193 @@
+WCCILpmon    (1), 2023.04.27 13:27:46.431, SYS,  INFO,        1, Manager Start, START_MODE
+WCCILpmon    (1), 2023.04.27 13:27:46.595, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILdata.exe -PROJ LAB3 -pmonIndex 1 
+WCCILpmon    (1), 2023.04.27 13:28:14.774, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.04.27 13:28:14.793, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi
+WCCILpmon    (1), 2023.04.27 13:28:49.851, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 2 -num 0
+WCCILpmon    (1), 2023.04.27 13:28:50.168, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 3 -num 1
+WCCILpmon    (1), 2023.04.27 13:28:50.486, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 4 -num 2
+WCCILpmon    (1), 2023.04.27 13:28:50.660, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 5 -num 3
+WCCILpmon    (1), 2023.04.27 13:28:50.877, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 6 -num 4
+WCCILpmon    (1), 2023.04.27 13:28:51.093, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 7 -num 5
+WCCILpmon    (1), 2023.04.27 13:28:55.216, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.04.27 13:28:56.042, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILproxy.exe -PROJ LAB3 -pmonIndex 9 
+WCCILpmon    (1), 2023.04.27 13:29:01.160, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.04.27 13:29:01.480, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.04.27 13:29:01.896, SYS,  INFO,        9/pmon, Проект запущен и выполняется. Переход в режим монитора
+WCCILpmon    (1), 2023.04.27 13:31:46.856, SYS,  INFO,       28/pmon, От ::1 получена команда INS, включение нового менеджера WCCOAopcua с индексом 13
+WCCILpmon    (1), 2023.04.27 13:31:46.869, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOAopcua(1) - перезапуск #1
+WCCILpmon    (1), 2023.04.27 13:31:46.905, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 
+WCCILpmon    (1), 2023.04.27 13:31:49.359, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOAopcua(1) - перезапуск #2
+WCCILpmon    (1), 2023.04.27 13:31:49.372, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 
+WCCILpmon    (1), 2023.04.27 13:31:51.785, SYS,  INFO,       12/pmon, Менеджер WCCOAopcua(1) перезапускается слишком часто - прекращение перезапусков.
+WCCILpmon    (1), 2023.04.27 13:32:06.578, SYS,  INFO,       29/pmon, От ::1 получена команда PROP_PUT, изменение менеджера WCCOAopcua(10) с индексом 13
+WCCILpmon    (1), 2023.04.27 13:32:44.260, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAopcua(10) с индексом 13
+WCCILpmon    (1), 2023.04.27 13:32:44.278, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.04.27 13:32:47.299, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.04.27 13:32:47.318, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi
+WCCILpmon    (1), 2023.04.27 13:33:47.762, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOAopcua(10) - перезапуск #1
+WCCILpmon    (1), 2023.04.27 13:33:47.780, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.04.27 13:34:51.292, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOAopcua(10) - перезапуск #2
+WCCILpmon    (1), 2023.04.27 13:34:51.309, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.04.27 13:35:54.786, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOAopcua(10) - перезапуск #1
+WCCILpmon    (1), 2023.04.27 13:35:54.804, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.04.27 13:36:58.958, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOAopcua(10) - перезапуск #2
+WCCILpmon    (1), 2023.04.27 13:36:58.978, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.04.27 13:58:06.316, SYS,  INFO,       25/pmon, От ::1 получена команда STOP (SIGTERM), остановка менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.04.27 13:58:06.330, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAui(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 13:58:12.533, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.04.27 13:58:12.551, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi
+WCCILpmon    (1), 2023.04.27 13:58:56.298, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILevent(0) - перезапуск #1
+WCCILpmon    (1), 2023.04.27 13:58:56.320, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.04.27 13:58:58.224, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILsim(1) - перезапуск #1
+WCCILpmon    (1), 2023.04.27 13:58:58.240, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.04.27 13:58:58.529, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOAopcua(10) - перезапуск #1
+WCCILpmon    (1), 2023.04.27 13:58:58.546, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.04.27 13:58:59.060, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOActrl(1) - перезапуск #1
+WCCILpmon    (1), 2023.04.27 13:58:59.076, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.04.27 13:59:04.317, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.04.27 13:59:04.337, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi
+WCCILpmon    (1), 2023.04.27 14:27:15.406, SYS,  INFO,        3/pmon, Получена команда на завершение - остановка проекта и завершение
+WCCILpmon    (1), 2023.04.27 14:27:15.418, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAopcua(10) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:15.428, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAui(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:15.441, SYS,  INFO,       17/pmon, Остановка менеджера WCCILsim(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:15.453, SYS,  INFO,       17/pmon, Остановка менеджера WCCOActrl(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:15.465, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(5) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:15.478, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(4) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:15.488, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(3) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:15.498, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(2) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:15.509, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:15.522, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(0) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:22.106, SYS,  INFO,       17/pmon, Остановка менеджера WCCILevent(0) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:22.457, SYS,  INFO,       17/pmon, Остановка менеджера WCCILdata(0) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:27.665, SYS,  INFO,       17/pmon, Остановка менеджера WCCILproxy(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.04.27 14:27:29.210, SYS,  INFO,       15/pmon, Проект полностью остановлен - завершение
+WCCILpmon    (1), 2023.04.27 14:27:29.222, SYS,  INFO,        2, Manager Stop
+WCCILpmon    (1), 2023.05.04 12:49:54.675, SYS,  INFO,        1, Manager Start, START_MODE
+WCCILpmon    (1), 2023.05.04 12:49:54.816, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILdata.exe -PROJ LAB3 -pmonIndex 1 
+WCCILpmon    (1), 2023.05.04 12:49:56.860, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 2 -num 0
+WCCILpmon    (1), 2023.05.04 12:49:57.168, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 3 -num 1
+WCCILpmon    (1), 2023.05.04 12:49:57.384, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 4 -num 2
+WCCILpmon    (1), 2023.05.04 12:49:57.601, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 5 -num 3
+WCCILpmon    (1), 2023.05.04 12:49:57.817, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 6 -num 4
+WCCILpmon    (1), 2023.05.04 12:49:58.032, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 7 -num 5
+WCCILpmon    (1), 2023.05.04 12:50:01.848, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.05.04 12:50:02.571, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILproxy.exe -PROJ LAB3 -pmonIndex 9 
+WCCILpmon    (1), 2023.05.04 12:50:06.753, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAopcua(10) с индексом 13
+WCCILpmon    (1), 2023.05.04 12:50:06.775, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.05.04 12:50:07.601, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.05.04 12:50:07.825, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.05.04 12:50:08.144, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi
+WCCILpmon    (1), 2023.05.04 12:50:10.922, SYS,  INFO,        9/pmon, Проект запущен и выполняется. Переход в режим монитора
+WCCILpmon    (1), 2023.05.04 13:20:05.141, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILevent(0) - перезапуск #1
+WCCILpmon    (1), 2023.05.04 13:20:05.162, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.05.04 13:20:07.160, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILsim(1) - перезапуск #1
+WCCILpmon    (1), 2023.05.04 13:20:07.182, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.05.04 13:20:07.396, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOAopcua(10) - перезапуск #1
+WCCILpmon    (1), 2023.05.04 13:20:07.414, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.05.04 13:20:07.930, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOActrl(1) - перезапуск #1
+WCCILpmon    (1), 2023.05.04 13:20:07.950, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.05.04 13:23:58.259, SYS,  INFO,      165, maxLogFileSize limit reached (10 MB). Renamed the logfile Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\log\\PVSS_II.log
+WCCILpmon    (1), 2023.05.04 13:27:58.523, SYS,  INFO,      165, maxLogFileSize limit reached (10 MB). Renamed the logfile Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\log\\PVSS_II.log
+WCCILpmon    (1), 2023.05.04 13:29:26.470, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.05.04 13:29:26.488, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi
+WCCILpmon    (1), 2023.05.04 13:50:09.966, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILsim(1) - перезапуск #1
+WCCILpmon    (1), 2023.05.04 13:50:09.985, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.05.04 13:50:10.298, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOAopcua(10) - перезапуск #1
+WCCILpmon    (1), 2023.05.04 13:50:10.316, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.05.04 13:50:10.877, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILevent(0) - перезапуск #1
+WCCILpmon    (1), 2023.05.04 13:50:10.893, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.05.04 13:50:11.510, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOActrl(1) - перезапуск #1
+WCCILpmon    (1), 2023.05.04 13:50:11.526, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.05.12 15:05:39.918, SYS,  INFO,        1, Manager Start, START_MODE
+WCCILpmon    (1), 2023.05.12 15:05:40.069, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILdata.exe -PROJ LAB3 -pmonIndex 1 
+WCCILpmon    (1), 2023.05.12 15:05:53.051, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAopcua(10) с индексом 13
+WCCILpmon    (1), 2023.05.12 15:05:53.071, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.05.12 15:05:56.412, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.05.12 15:05:56.429, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi
+WCCILpmon    (1), 2023.05.12 15:06:43.117, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 2 -num 0
+WCCILpmon    (1), 2023.05.12 15:06:43.435, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 3 -num 1
+WCCILpmon    (1), 2023.05.12 15:06:43.652, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 4 -num 2
+WCCILpmon    (1), 2023.05.12 15:06:43.869, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 5 -num 3
+WCCILpmon    (1), 2023.05.12 15:06:44.129, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 6 -num 4
+WCCILpmon    (1), 2023.05.12 15:06:44.348, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 7 -num 5
+WCCILpmon    (1), 2023.05.12 15:06:48.682, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.05.12 15:06:49.406, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILproxy.exe -PROJ LAB3 -pmonIndex 9 
+WCCILpmon    (1), 2023.05.12 15:06:54.307, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.05.12 15:06:54.627, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.05.12 15:07:04.407, SYS,  INFO,        9/pmon, Проект запущен и выполняется. Переход в режим монитора
+WCCILpmon    (1), 2023.05.12 15:36:52.075, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILevent(0) - перезапуск #1
+WCCILpmon    (1), 2023.05.12 15:36:52.095, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.05.12 15:36:53.896, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILsim(1) - перезапуск #1
+WCCILpmon    (1), 2023.05.12 15:36:53.915, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.05.12 15:36:54.027, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOAopcua(10) - перезапуск #1
+WCCILpmon    (1), 2023.05.12 15:36:54.044, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.05.12 15:36:54.559, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOActrl(1) - перезапуск #1
+WCCILpmon    (1), 2023.05.12 15:36:54.578, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.05.12 15:37:04.539, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.05.12 15:37:04.557, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi
+WCCILpmon    (1), 2023.05.12 16:06:56.579, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILsim(1) - перезапуск #1
+WCCILpmon    (1), 2023.05.12 16:06:56.594, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.05.12 16:06:57.008, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILevent(0) - перезапуск #1
+WCCILpmon    (1), 2023.05.12 16:06:57.023, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.05.12 16:06:57.235, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOAopcua(10) - перезапуск #1
+WCCILpmon    (1), 2023.05.12 16:06:57.260, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.05.12 16:06:58.386, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOActrl(1) - перезапуск #1
+WCCILpmon    (1), 2023.05.12 16:06:58.402, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.05.12 16:07:07.727, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.05.12 16:07:07.744, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi
+WCCILpmon    (1), 2023.05.12 16:23:23.617, SYS,  INFO,       21/pmon, От ::1 получена команда STOP_ALL, остановка проекта
+WCCILpmon    (1), 2023.05.12 16:23:23.630, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAopcua(10) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.12 16:23:23.641, SYS,  INFO,       17/pmon, Остановка менеджера WCCILsim(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.12 16:23:23.653, SYS,  INFO,       17/pmon, Остановка менеджера WCCOActrl(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.12 16:23:23.666, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(5) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.12 16:23:23.678, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(4) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.12 16:23:23.690, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(3) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.12 16:23:23.701, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(2) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.12 16:23:23.712, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.12 16:23:23.722, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(0) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.12 16:23:29.886, SYS,  INFO,       17/pmon, Остановка менеджера WCCILevent(0) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.12 16:23:30.099, SYS,  INFO,       17/pmon, Остановка менеджера WCCILdata(0) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.12 16:23:36.124, SYS,  INFO,       17/pmon, Остановка менеджера WCCILproxy(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.12 16:23:36.842, SYS,  INFO,       13/pmon, Проект полностью остановлен - ожидание команды
+WCCILpmon    (1), 2023.05.18 12:52:40.862, SYS,  INFO,        1, Manager Start, START_MODE
+WCCILpmon    (1), 2023.05.18 12:52:41.090, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILdata.exe -PROJ LAB3 -pmonIndex 1 
+WCCILpmon    (1), 2023.05.18 12:52:43.578, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 2 -num 0
+WCCILpmon    (1), 2023.05.18 12:52:43.896, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 3 -num 1
+WCCILpmon    (1), 2023.05.18 12:52:44.212, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 4 -num 2
+WCCILpmon    (1), 2023.05.18 12:52:44.531, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 5 -num 3
+WCCILpmon    (1), 2023.05.18 12:52:44.747, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 6 -num 4
+WCCILpmon    (1), 2023.05.18 12:52:45.169, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 7 -num 5
+WCCILpmon    (1), 2023.05.18 12:52:48.731, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.05.18 12:52:49.647, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILproxy.exe -PROJ LAB3 -pmonIndex 9 
+WCCILpmon    (1), 2023.05.18 12:52:54.601, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.05.18 12:52:54.820, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.05.18 12:52:55.139, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi
+WCCILpmon    (1), 2023.05.18 12:53:03.612, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.05.18 12:53:04.128, SYS,  INFO,        9/pmon, Проект запущен и выполняется. Переход в режим монитора
+WCCILpmon    (1), 2023.05.18 13:22:52.308, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILevent(0) - перезапуск #1
+WCCILpmon    (1), 2023.05.18 13:22:52.326, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.05.18 13:22:54.227, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILsim(1) - перезапуск #1
+WCCILpmon    (1), 2023.05.18 13:22:54.244, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.05.18 13:22:54.455, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOAopcua(10) - перезапуск #1
+WCCILpmon    (1), 2023.05.18 13:22:54.475, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOAopcua.exe -PROJ LAB3 -pmonIndex 13 -num 10
+WCCILpmon    (1), 2023.05.18 13:22:54.991, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOActrl(1) - перезапуск #1
+WCCILpmon    (1), 2023.05.18 13:22:55.007, SYS,  INFO,        1, Manager Start, D:\MentalHelp\Main\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.05.18 13:30:15.213, SYS,  INFO,       25/pmon, От ::1 получена команда STOP (SIGTERM), остановка менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.05.18 13:30:15.226, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAui(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:41.138, SYS,  INFO,       21/pmon, От ::1 получена команда STOP_ALL, остановка проекта
+WCCILpmon    (1), 2023.05.18 13:30:41.151, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAopcua(10) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:41.162, SYS,  INFO,       17/pmon, Остановка менеджера WCCILsim(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:41.176, SYS,  INFO,       17/pmon, Остановка менеджера WCCOActrl(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:41.187, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(5) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:41.199, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(4) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:41.210, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(3) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:41.220, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(2) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:41.231, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:41.244, SYS,  INFO,       17/pmon, Остановка менеджера WCCOAvalarch(0) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:47.473, SYS,  INFO,       17/pmon, Остановка менеджера WCCILevent(0) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:47.688, SYS,  INFO,       17/pmon, Остановка менеджера WCCILdata(0) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:53.736, SYS,  INFO,       17/pmon, Остановка менеджера WCCILproxy(1) с сигналом SIGTERM
+WCCILpmon    (1), 2023.05.18 13:30:54.445, SYS,  INFO,       13/pmon, Проект полностью остановлен - ожидание команды
+WCCILpmon    (1), 2023.05.18 13:32:49.395, SYS,  INFO,        3/pmon, Получена команда на завершение - остановка проекта и завершение
+WCCILpmon    (1), 2023.05.18 13:32:49.411, SYS,  INFO,       15/pmon, Проект полностью остановлен - завершение
+WCCILpmon    (1), 2023.05.18 13:32:49.422, SYS,  INFO,        2, Manager Stop

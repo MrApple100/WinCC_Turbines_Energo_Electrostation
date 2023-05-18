@@ -1,0 +1,8 @@
+WCCOAascii   (0), 2023.04.13 12:54:14.805, SYS,  INFO,        1, Manager Start, PROJ, LAB3, V 3.16 - 3.16   platform Windows AMD64 linked at Aug 30 2018 07:48:40 (f74445cfeb7)
+WCCOAascii   (0), 2023.04.13 12:54:14.811, SYS,  INFO,        3, Trying to connect to (SYS: 0 Data -num 0 CONN: 1) @ REXROTH-UKGJIFR:4897
+WCCOAascii   (0), 2023.04.13 12:54:14.815, SYS,  INFO,        4, Connected to (SYS: 0 Data -num 0 CONN: 1) @ REXROTH-UKGJIFR (::1)
+WCCOAascii   (1), 2023.04.13 12:54:14.833, SYS,  INFO,        6, Initialization by Data Manager finished
+WCCOAascii   (1), 2023.04.13 12:54:14.835, SYS,  INFO,        3, Trying to connect to (SYS: 1 Event -num 0 CONN: 1) @ REXROTH-UKGJIFR:4998
+WCCOAascii   (1), 2023.04.13 12:54:14.837, SYS,  INFO,        4, Connected to (SYS: 1 Event -num 0 CONN: 1) @ REXROTH-UKGJIFR (::1)
+WCCOAascii   (1), 2023.04.13 12:54:14.853, SYS,  INFO,      102, Waiting for user names/passwords
+WCCOAascii   (1), 2023.04.13 12:54:14.861, SYS,  INFO,      103, User names/passwords initialized

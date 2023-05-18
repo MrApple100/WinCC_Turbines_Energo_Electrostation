@@ -1,0 +1,5 @@
+[general]
+pvss_path = "D:/MentalHelp/Main"
+proj_path = "Z:/IABO-02-20/Zaporozhskih/PRASRV/LAB3"
+proj_version = "3.16"
+langs = "ru_RU.utf8"

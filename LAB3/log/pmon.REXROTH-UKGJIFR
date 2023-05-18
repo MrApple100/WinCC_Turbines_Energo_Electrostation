@@ -1,0 +1,33 @@
+WCCILpmon    (1), 2023.04.13 12:53:27.291, SYS,  INFO,        1, Manager Start, START_MODE
+WCCILpmon    (1), 2023.04.13 12:53:27.417, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCILdata.exe -PROJ LAB3 -pmonIndex 1 
+WCCILpmon    (1), 2023.04.13 12:53:29.400, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 2 -num 0
+WCCILpmon    (1), 2023.04.13 12:53:29.717, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 3 -num 1
+WCCILpmon    (1), 2023.04.13 12:53:29.932, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 4 -num 2
+WCCILpmon    (1), 2023.04.13 12:53:30.147, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 5 -num 3
+WCCILpmon    (1), 2023.04.13 12:53:30.464, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 6 -num 4
+WCCILpmon    (1), 2023.04.13 12:53:30.679, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCOAvalarch.exe -PROJ LAB3 -pmonIndex 7 -num 5
+WCCILpmon    (1), 2023.04.13 12:53:39.630, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.04.13 12:53:42.065, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCILproxy.exe -PROJ LAB3 -pmonIndex 9 
+WCCILpmon    (1), 2023.04.13 12:54:00.125, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.04.13 12:54:00.144, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi
+WCCILpmon    (1), 2023.04.13 12:54:12.203, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILproxy(1) - перезапуск #1
+WCCILpmon    (1), 2023.04.13 12:54:12.219, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCILproxy.exe -PROJ LAB3 -pmonIndex 9 
+WCCILpmon    (1), 2023.04.13 12:54:12.939, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.04.13 12:54:13.258, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.04.13 12:54:13.574, SYS,  INFO,        9/pmon, Проект запущен и выполняется. Переход в режим монитора
+WCCILpmon    (1), 2023.04.13 13:23:42.204, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILevent(0) - перезапуск #1
+WCCILpmon    (1), 2023.04.13 13:23:42.223, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.04.13 13:23:44.126, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILsim(1) - перезапуск #1
+WCCILpmon    (1), 2023.04.13 13:23:44.145, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.04.13 13:23:44.558, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOActrl(1) - перезапуск #1
+WCCILpmon    (1), 2023.04.13 13:23:44.578, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.04.13 13:23:52.731, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.04.13 13:23:52.750, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi
+WCCILpmon    (1), 2023.04.13 13:53:44.008, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILevent(0) - перезапуск #1
+WCCILpmon    (1), 2023.04.13 13:53:44.030, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCILevent.exe -PROJ LAB3 -pmonIndex 8 
+WCCILpmon    (1), 2023.04.13 13:53:45.929, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCILsim(1) - перезапуск #1
+WCCILpmon    (1), 2023.04.13 13:53:45.948, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCILsim.exe -PROJ LAB3 -pmonIndex 11 
+WCCILpmon    (1), 2023.04.13 13:53:46.362, SYS,  INFO,       11/pmon, Обнаружен остановленный менеджер WCCOActrl(1) - перезапуск #1
+WCCILpmon    (1), 2023.04.13 13:53:46.381, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCOActrl.exe -PROJ LAB3 -pmonIndex 10 -f pvss_scripts.lst
+WCCILpmon    (1), 2023.04.13 13:54:08.569, SYS,  INFO,       24/pmon, От ::1 получена команда START, запуск менеджера WCCOAui(1) с индексом 12
+WCCILpmon    (1), 2023.04.13 13:54:08.587, SYS,  INFO,        1, Manager Start, C:\Siemens\Automation\WinCC_OA\3.16\bin\WCCOAui.exe -PROJ LAB3 -pmonIndex 12 -m gedi

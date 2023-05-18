@@ -1,0 +1,6 @@
+WCCOAui      (1), 2023.04.13 13:52:16.170,	Qt,	QTextCursor::setPosition: Position '213' out of range
+WCCOAui      (1), 2023.04.13 13:52:59.337,	Qt,	QTextCursor::setPosition: Position '228' out of range
+WCCOAui      (1), 2023.04.13 13:53:10.866,	Qt,	QTextCursor::setPosition: Position '228' out of range
+WCCOAui      (1), 2023.04.13 13:53:22.305,	Qt,	QTextCursor::setPosition: Position '228' out of range
+WCCOAui      (1), 2023.04.13 13:53:40.730,	Qt,	QTextCursor::setPosition: Position '228' out of range
+WCCOAui      (1), 2023.05.12 15:45:09.043,	Qt,	QTextCursor::setPosition: Position '984' out of range

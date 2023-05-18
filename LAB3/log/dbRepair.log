@@ -1,0 +1,4016 @@
+
+#############################################
+## DATA BASE REPAIR with parameter "on" requested on 2023.04.27;13:27:46:761 
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\DpList
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\DpList
+
+
+------------------------------------------------------------------------
+
+Processing key file: dplist.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: dplist.db(0), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\DpList
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\DpList
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\dplist.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\dplist.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\ValHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\ValHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblklong.key(32), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\ValHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\vblklong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\vblkflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\vblkptr.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\lastlong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\lastflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\lastptr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\vblklong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\vblkflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\vblkptr.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\lastlong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\lastflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\lastptr.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertDpList
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertDpList
+
+
+------------------------------------------------------------------------
+
+Processing key file: adplist.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: adplist.db(0), total of 1 record
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertDpList
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertDpList
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\adplist.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\adplist.db, total records =       1
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrg.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 4 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 16 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 8 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 4 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\alertrg.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\alertrd.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\alertpr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\alertrec.db, total records =       4
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\AlertDir
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\AlertDir
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertdir.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertdir.db(0), total of 1 record
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\AlertDir
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\AlertDir
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alertdir.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alertdir.db, total records =       1
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\AlertHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\AlertHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrg.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 4 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 2 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\AlertHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\alertrg.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\alertrd.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\alertpr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\alertrec.db, total records =       1
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\AlertHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\AlertHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrg.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\AlertHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\alertrg.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\alertrd.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\alertpr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\alertrec.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\ValHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\ValHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblklong.key(32), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\ValHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\vblklong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\vblkflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\vblkptr.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\lastlong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\lastflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\lastptr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\vblklong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\vblkflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\vblkptr.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\lastlong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\lastflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\lastptr.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\BgStatus
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\BgStatus
+
+
+------------------------------------------------------------------------
+
+Processing key file: bgacstat.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: bgoastat.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: bgavgpp.key(5), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: bguint.key(7), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: bglcstat.key(9), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: bgolstat.key(11), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: bgupdfv.key(16), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgacstat.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgoastat.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgavgpp.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bguint.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bglcstat.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgolstat.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgdpel.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgldpel.db(13), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgupdfv.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgudpel.db(15), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\BgStatus
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\BgStatus
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgacstat.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgoastat.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgavgpp.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bguint.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bglcstat.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgolstat.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgupdfv.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgacstat.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgoastat.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgavgpp.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bguint.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bglcstat.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgolstat.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgupdfv.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ConfHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ConfHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: smooth.key(15), total of 6 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: userrng.key(20), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: pvssrng.key(21), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: peradr.key(23), total of 7 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: dflvalh.key(25), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: conv.key(30), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: archinfo.key(33), total of 8 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: archclass.key(35), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertcl.key(37), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertval.key(40), total of 6 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: genconf.key(43), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: dpauth.key(45), total of 4 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: distinfo.key(47), total of 6 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: distdrv.key(48), total of 7 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: dpfunc.key(50), total of 3 nodes
+
+
+------------------------------------------------------------------------
+
+Processing data file: bitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bit32var.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: charvar.db(2), total of 1206 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: intvar.db(3), total of 309 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: uintvar.db(4), total of 12 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: floatvar.db(5), total of 350 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: textvar.db(6), total of 1048 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: timevar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: dynvar.db(8), total of 2486 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: dpidvar.db(9), total of 538 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lngvar.db(10), total of 24 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: smooth.db(13), total of 107 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: smthattr.db(14), total of 107 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: userrng.db(16), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: userrngi.db(17), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: rngrec.db(18), total of 34 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: pvssrng.db(19), total of 29 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: peradr.db(22), total of 125 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: dflvalh.db(24), total of 14 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: conv.db(26), total of 28 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: sconvi.db(27), total of 28 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: sconv.db(28), total of 28 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: sconvatt.db(29), total of 140 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: archinfo.db(31), total of 214 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: archproc.db(32), total of 189 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: archclass.db(34), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertcl.db(36), total of 21 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrr.db(38), total of 141 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertval.db(39), total of 126 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: genattr.db(41), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: genconf.db(42), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: dpauth.db(44), total of 67 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: distinfo.db(46), total of 125 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: dpfunc.db(49), total of 72 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ConfHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ConfHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\smooth.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\userrng.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\pvssrng.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\peradr.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dflvalh.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\conv.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\archinfo.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\archclass.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alertcl.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alertval.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\genconf.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dpauth.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\distinfo.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\distdrv.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dpfunc.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\smooth.db, total records =     107
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\userrng.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\pvssrng.db, total records =      29
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\peradr.db, total records =     125
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dflvalh.db, total records =      14
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\conv.db, total records =      28
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\archinfo.db, total records =     214
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\archclass.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alertcl.db, total records =      21
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alertval.db, total records =     126
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\genconf.db, total records =       1
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dpauth.db, total records =      67
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\distinfo.db, total records =     125
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dpfunc.db, total records =      72
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\DbDir
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\DbDir
+
+
+------------------------------------------------------------------------
+
+Processing key file: dbdir.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: dbdir.db(0), total of 1 record
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\DbDir
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\DbDir
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dbdir.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dbdir.db, total records =       1
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertDpList
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertDpList
+
+
+------------------------------------------------------------------------
+
+Processing key file: adplist.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: adplist.db(0), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertDpList
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertDpList
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\adplist.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\adplist.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrg.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\alertrg.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\alertrd.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\alertpr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\alertrec.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\DpList
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\DpList
+
+
+------------------------------------------------------------------------
+
+Processing key file: dplist.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: dplist.db(0), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\DpList
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\DpList
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\dplist.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\dplist.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\ValHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\ValHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblklong.key(32), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\ValHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\vblklong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\vblkflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\vblkptr.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\lastlong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\lastflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\lastptr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\vblklong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\vblkflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\vblkptr.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\lastlong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\lastflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\lastptr.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\ValHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\ValHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblklong.key(32), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 70 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 31 nodes
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 361 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 26 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 481 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 2301 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 153 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 8271 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 657 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 12312 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 32 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 13 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 4994 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 59 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 2335 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\ValHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\vblklong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\vblkflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\vblkptr.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\lastlong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\lastflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\lastptr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\vblklong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\vblkflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\vblkptr.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\lastlong.db, total records =    4994
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\lastflt.db, total records =      59
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\lastptr.db, total records =    2335
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\TypeAndId
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\TypeAndId
+
+
+------------------------------------------------------------------------
+
+Processing key file: typeId.key(11), total of 8 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: sysId.key(12), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: dpId.key(13), total of 18 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: confId.key(14), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: fixId.key(15), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: aliasId.key(16), total of 4 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: viewId.key(19), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: pvssGlobal.db(0), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: objName.db(1), total of 4880 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: objNameTxt.db(2), total of 4890 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: typeId.db(3), total of 225 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: elId.db(4), total of 4029 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: sysId.db(5), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: dpId.db(6), total of 510 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: confId.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: attrId.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: fixId.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aliasId.db(10), total of 97 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: cnsTree.db(17), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: cnsView.db(18), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\TypeAndId
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\TypeAndId
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\typeId.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\sysId.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dpId.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\confId.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\fixId.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aliasId.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\viewId.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\typeId.db, total records =     225
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\sysId.db, total records =       1
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dpId.db, total records =     510
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\confId.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\fixId.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aliasId.db, total records =      97
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\cnsView.db, total records =       0
+
+key file rebuild completed
+
+#############################################
+## DATA BASE REPAIR with parameter "on" requested on 2023.05.12;15:05:40:254 
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\DpList
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\DpList
+
+
+------------------------------------------------------------------------
+
+Processing key file: dplist.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: dplist.db(0), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\DpList
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\DpList
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\dplist.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\dplist.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\ValHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\ValHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblklong.key(32), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\ValHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\vblklong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\vblkflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\vblkptr.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\lastlong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\lastflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\lastptr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\vblklong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\vblkflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\vblkptr.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\lastlong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\lastflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\0000000000\lastptr.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertDpList
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertDpList
+
+
+------------------------------------------------------------------------
+
+Processing key file: adplist.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: adplist.db(0), total of 4 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertDpList
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertDpList
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\adplist.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\adplist.db, total records =       4
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrg.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 14 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 56 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 28 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 14 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\alertrg.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\alertrd.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\alertpr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\al0000000000\alertrec.db, total records =      14
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\AlertDir
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\AlertDir
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertdir.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertdir.db(0), total of 1 record
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\AlertDir
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\AlertDir
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alertdir.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alertdir.db, total records =       1
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\AlertHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\AlertHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrg.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 4 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 2 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\AlertHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\alertrg.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\alertrd.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\alertpr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alliving\alertrec.db, total records =       1
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\AlertHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\AlertHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrg.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\AlertHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\alertrg.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\alertrd.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\alertpr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aloverflow\alertrec.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\ValHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\ValHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblklong.key(32), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\ValHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\vblklong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\vblkflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\vblkptr.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\lastlong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\lastflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\lastptr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\vblklong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\vblkflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\vblkptr.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\lastlong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\lastflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ancient\lastptr.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\BgStatus
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\BgStatus
+
+
+------------------------------------------------------------------------
+
+Processing key file: bgacstat.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: bgoastat.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: bgavgpp.key(5), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: bguint.key(7), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: bglcstat.key(9), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: bgolstat.key(11), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: bgupdfv.key(16), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgacstat.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgoastat.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgavgpp.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bguint.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bglcstat.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgolstat.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgdpel.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgldpel.db(13), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgupdfv.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bgudpel.db(15), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\BgStatus
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\BgStatus
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgacstat.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgoastat.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgavgpp.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bguint.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bglcstat.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgolstat.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgupdfv.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgacstat.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgoastat.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgavgpp.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bguint.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bglcstat.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgolstat.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\bgupdfv.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ConfHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ConfHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: smooth.key(15), total of 6 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: userrng.key(20), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: pvssrng.key(21), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: peradr.key(23), total of 7 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: dflvalh.key(25), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: conv.key(30), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: archinfo.key(33), total of 8 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: archclass.key(35), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertcl.key(37), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertval.key(40), total of 6 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: genconf.key(43), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: dpauth.key(45), total of 4 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: distinfo.key(47), total of 6 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: distdrv.key(48), total of 7 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: dpfunc.key(50), total of 3 nodes
+
+
+------------------------------------------------------------------------
+
+Processing data file: bitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bit32var.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: charvar.db(2), total of 1206 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: intvar.db(3), total of 309 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: uintvar.db(4), total of 12 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: floatvar.db(5), total of 350 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: textvar.db(6), total of 1052 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: timevar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: dynvar.db(8), total of 2486 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: dpidvar.db(9), total of 538 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lngvar.db(10), total of 24 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: bit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: smooth.db(13), total of 107 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: smthattr.db(14), total of 107 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: userrng.db(16), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: userrngi.db(17), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: rngrec.db(18), total of 34 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: pvssrng.db(19), total of 29 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: peradr.db(22), total of 126 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: dflvalh.db(24), total of 14 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: conv.db(26), total of 28 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: sconvi.db(27), total of 28 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: sconv.db(28), total of 28 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: sconvatt.db(29), total of 140 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: archinfo.db(31), total of 214 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: archproc.db(32), total of 189 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: archclass.db(34), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertcl.db(36), total of 21 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrr.db(38), total of 141 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertval.db(39), total of 126 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: genattr.db(41), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: genconf.db(42), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: dpauth.db(44), total of 67 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: distinfo.db(46), total of 127 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: dpfunc.db(49), total of 72 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ConfHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\ConfHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\smooth.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\userrng.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\pvssrng.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\peradr.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dflvalh.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\conv.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\archinfo.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\archclass.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alertcl.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alertval.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\genconf.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dpauth.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\distinfo.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\distdrv.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dpfunc.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\smooth.db, total records =     107
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\userrng.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\pvssrng.db, total records =      29
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\peradr.db, total records =     126
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dflvalh.db, total records =      14
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\conv.db, total records =      28
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\archinfo.db, total records =     214
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\archclass.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alertcl.db, total records =      21
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\alertval.db, total records =     126
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\genconf.db, total records =       1
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dpauth.db, total records =      67
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\distinfo.db, total records =     127
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dpfunc.db, total records =      72
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\DbDir
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\DbDir
+
+
+------------------------------------------------------------------------
+
+Processing key file: dbdir.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: dbdir.db(0), total of 1 record
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\DbDir
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\DbDir
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dbdir.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dbdir.db, total records =       1
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertDpList
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertDpList
+
+
+------------------------------------------------------------------------
+
+Processing key file: adplist.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: adplist.db(0), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertDpList
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertDpList
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\adplist.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\adplist.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrg.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertrd.key(2), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: alertpr.key(3), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: alertrec.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abitvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit32va.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: acharvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aintvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: auintvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: afltvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atxtvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: atimvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adynvar.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: adpidvar.db(13), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: alngvar.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aulngvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: abit64va.db(16), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\AlertHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\alertrg.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\alertrd.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\alertpr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\alertrec.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\DpList
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\DpList
+
+
+------------------------------------------------------------------------
+
+Processing key file: dplist.key(1), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: dplist.db(0), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\DpList
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\DpList
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\dplist.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\dplist.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\ValHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\ValHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblklong.key(32), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\ValHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\vblklong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\vblkflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\vblkptr.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\lastlong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\lastflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\lastptr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\vblklong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\vblkflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\vblkptr.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\lastlong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\lastflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\empty\lastptr.db, total records =       0
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\ValHist
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\ValHist
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblklong.key(32), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkflt.key(33), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: vblkptr.key(34), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastlong.key(35), total of 70 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastflt.key(36), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: lastptr.key(37), total of 31 nodes
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbitvar.db(0), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit32va.db(1), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vcharvar.db(2), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vintvar.db(3), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vuintvar.db(4), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vfltvar.db(5), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtxtvar.db(6), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vtimvar.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdynvar.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vdpidvar.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vlngvar.db(10), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vulngvar.db(11), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vbit64va.db(12), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbitvar.db(13), total of 361 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit32va.db(14), total of 36 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lcharvar.db(15), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lintvar.db(16), total of 481 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: luintvar.db(17), total of 2301 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lfltvar.db(18), total of 153 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltxtvar.db(19), total of 8348 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ltimvar.db(20), total of 658 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldynvar.db(21), total of 12405 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: ldpidvar.db(22), total of 33 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: llngvar.db(23), total of 13 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lulngvar.db(24), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lbit64va.db(25), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblklong.db(26), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkflt.db(27), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: vblkptr.db(28), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastlong.db(29), total of 5020 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastflt.db(30), total of 60 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: lastptr.db(31), total of 2362 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\ValHist
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\ValHist
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\vblklong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\vblkflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\vblkptr.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\lastlong.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\lastflt.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\lastptr.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\vblklong.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\vblkflt.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\vblkptr.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\lastlong.db, total records =    5020
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\lastflt.db, total records =      60
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\lastval\lastptr.db, total records =    2362
+
+key file rebuild completed
+########### CHECKING DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\TypeAndId
+ Command: D:\MentalHelp\Main\bin\dbcheck -a -k -t Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\TypeAndId
+
+
+------------------------------------------------------------------------
+
+Processing key file: typeId.key(11), total of 8 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: sysId.key(12), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: dpId.key(13), total of 18 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: confId.key(14), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: fixId.key(15), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing key file: aliasId.key(16), total of 4 nodes
+
+
+------------------------------------------------------------------------
+
+Processing key file: viewId.key(19), total of 1 node
+
+
+------------------------------------------------------------------------
+
+Processing data file: pvssGlobal.db(0), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: objName.db(1), total of 4883 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: objNameTxt.db(2), total of 4893 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: typeId.db(3), total of 225 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: elId.db(4), total of 4029 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: sysId.db(5), total of 1 record
+
+
+------------------------------------------------------------------------
+
+Processing data file: dpId.db(6), total of 513 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: confId.db(7), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: attrId.db(8), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: fixId.db(9), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: aliasId.db(10), total of 97 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: cnsTree.db(17), total of 0 records
+
+
+------------------------------------------------------------------------
+
+Processing data file: cnsView.db(18), total of 0 records
+
+
+Database consistency check completed
+
+0 errors were encountered in 0 records/nodes
+########### RUNNING KEYBUILD IN DATABASE : Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\TypeAndId
+ Command: D:\MentalHelp\Main\bin\keybuild Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\TypeAndId
+Raima Database Manager 4.5 [Build 17]
+Key File Build Utility
+Copyright (C) 1984-1997, Raima Corporation, All Rights Reserved
+
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\typeId.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\sysId.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dpId.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\confId.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\fixId.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aliasId.key
+initializing key file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\viewId.key
+
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\typeId.db, total records =     225
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\sysId.db, total records =       1
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\dpId.db, total records =     513
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\confId.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\fixId.db, total records =       0
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\aliasId.db, total records =      97
+processing data file: Z:\IABO-02-20\Zaporozhskih\PRASRV\LAB3\db\wincc_oa\cnsView.db, total records =       0
+
+key file rebuild completed

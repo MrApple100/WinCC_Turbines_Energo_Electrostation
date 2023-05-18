@@ -1,0 +1,28 @@
+processing file C:\Siemens\Automation\WinCC_OA\3.16\dplist\update_002.dpl
+
+modifying type _OPCUAServer:
+DpType (53): Modify msg for type _OPCUAServer sent.
+
+modifying type _OPCUA:
+DpType (69): Modify msg for type _OPCUA sent.
+DpValue (73): Values for _SysMgm_DriverOpc.Title sent.
+DpValue (74): Values for _SysMgm_DriverOpc.Description sent.
+DpValue (75): Values for _SysMgm_DriverOpc.Icon sent.
+DpValue (76): Values for _SysMgm_DriverOpc.ViewPermission sent.
+DpValue (77): Values for _SysMgm_DriverOpc.Index sent.
+DpValue (78): Values for _SysMgm_DriverOpc.Items.Titles sent.
+DpValue (79): Values for _SysMgm_DriverOpc.Items.Descriptions sent.
+DpValue (80): Values for _SysMgm_DriverOpc.Items.IconsSmall sent.
+DpValue (81): Values for _SysMgm_DriverOpc.Items.IconsLarge sent.
+DpValue (82): Values for _SysMgm_DriverOpc.Items.OwnActionScripts sent.
+DpValue (83): Values for _SysMgm_DriverOpc.Items.Filenames sent.
+DpValue (84): Values for _SysMgm_DriverOpc.Items.Dollars sent.
+DpValue (85): Values for _SysMgm_DriverOpc.Items.ViewPermissions sent.
+DpValue (86): Values for _SysMgm_DriverOpc.Items.RunPermissions sent.
+DpValue (87): Values for _SysMgm_DriverOpc.Items.ViewPermissionsOwn sent.
+DpValue (88): Values for _SysMgm_DriverOpc.Items.RunPermissionsOwn sent.
+DpValue (89): Values for _SysMgm_DriverOpc.Items.ActionScripts sent.
+DpValue (90): Values for _SysMgm_DriverOpc.Items.ExtendKonstruktor sent.
+Waiting for last response from eventmanager...
+Scanning of file C:\Siemens\Automation\WinCC_OA\3.16\dplist\update_002.dpl is finished (0)
+End of Program
